@@ -1,3 +1,2 @@
-# mypro
-this is my first git repo.
+# amazon clone
 author-sushandjain
